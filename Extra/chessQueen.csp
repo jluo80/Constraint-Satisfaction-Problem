@@ -1,0 +1,66 @@
+A 11 12 13 14 15 16 17 18 21 22 23 24 25 26 27 28 31 32 33 34 35 36 37 38 41 42 43 44 45 46 47 48 51 52 53 54 55 56 57 58 61 62 63 64 65 66 67 68 71 72 73 74 75 76 77 78 81 82 83 84 85 86 87 88
+B 11 12 13 14 15 16 17 18 21 22 23 24 25 26 27 28 31 32 33 34 35 36 37 38 41 42 43 44 45 46 47 48 51 52 53 54 55 56 57 58 61 62 63 64 65 66 67 68 71 72 73 74 75 76 77 78 81 82 83 84 85 86 87 88
+C 11 12 13 14 15 16 17 18 21 22 23 24 25 26 27 28 31 32 33 34 35 36 37 38 41 42 43 44 45 46 47 48 51 52 53 54 55 56 57 58 61 62 63 64 65 66 67 68 71 72 73 74 75 76 77 78 81 82 83 84 85 86 87 88
+D 11 12 13 14 15 16 17 18 21 22 23 24 25 26 27 28 31 32 33 34 35 36 37 38 41 42 43 44 45 46 47 48 51 52 53 54 55 56 57 58 61 62 63 64 65 66 67 68 71 72 73 74 75 76 77 78 81 82 83 84 85 86 87 88
+E 11 12 13 14 15 16 17 18 21 22 23 24 25 26 27 28 31 32 33 34 35 36 37 38 41 42 43 44 45 46 47 48 51 52 53 54 55 56 57 58 61 62 63 64 65 66 67 68 71 72 73 74 75 76 77 78 81 82 83 84 85 86 87 88
+F 11 12 13 14 15 16 17 18 21 22 23 24 25 26 27 28 31 32 33 34 35 36 37 38 41 42 43 44 45 46 47 48 51 52 53 54 55 56 57 58 61 62 63 64 65 66 67 68 71 72 73 74 75 76 77 78 81 82 83 84 85 86 87 88
+G 11 12 13 14 15 16 17 18 21 22 23 24 25 26 27 28 31 32 33 34 35 36 37 38 41 42 43 44 45 46 47 48 51 52 53 54 55 56 57 58 61 62 63 64 65 66 67 68 71 72 73 74 75 76 77 78 81 82 83 84 85 86 87 88
+H 11 12 13 14 15 16 17 18 21 22 23 24 25 26 27 28 31 32 33 34 35 36 37 38 41 42 43 44 45 46 47 48 51 52 53 54 55 56 57 58 61 62 63 64 65 66 67 68 71 72 73 74 75 76 77 78 81 82 83 84 85 86 87 88
+0
+NotEqualConstraint A B
+NotEqualConstraint A C
+NotEqualConstraint A D
+NotEqualConstraint A E
+NotEqualConstraint A F
+NotEqualConstraint A G
+NotEqualConstraint A H
+NotEqualConstraint B C
+NotEqualConstraint B D
+NotEqualConstraint B E
+NotEqualConstraint B F
+NotEqualConstraint B G
+NotEqualConstraint B H
+NotEqualConstraint C D
+NotEqualConstraint C E
+NotEqualConstraint C F
+NotEqualConstraint C G
+NotEqualConstraint C H
+NotEqualConstraint D E
+NotEqualConstraint D F
+NotEqualConstraint D G
+NotEqualConstraint D H
+NotEqualConstraint E F
+NotEqualConstraint E G
+NotEqualConstraint E H
+NotEqualConstraint F G
+NotEqualConstraint F H
+NotEqualConstraint G H
+QueenConstraint A B
+QueenConstraint A C
+QueenConstraint A D
+QueenConstraint A E
+QueenConstraint A F
+QueenConstraint A G
+QueenConstraint A H
+QueenConstraint B C
+QueenConstraint B D
+QueenConstraint B E
+QueenConstraint B F
+QueenConstraint B G
+QueenConstraint B H
+QueenConstraint C D
+QueenConstraint C E
+QueenConstraint C F
+QueenConstraint C G
+QueenConstraint C H
+QueenConstraint D E
+QueenConstraint D F
+QueenConstraint D G
+QueenConstraint D H
+QueenConstraint E F
+QueenConstraint E G
+QueenConstraint E H
+QueenConstraint F G
+QueenConstraint F H
+QueenConstraint G H
+0
